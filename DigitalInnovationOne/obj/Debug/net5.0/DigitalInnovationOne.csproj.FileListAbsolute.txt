@@ -1,0 +1,16 @@
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csprojAssemblyReference.cache
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
