@@ -95,6 +95,44 @@ namespace Revisao
                         break;
                     case "3":
                         //media geral
+                        decimal notaTotal = 0;
+                        var nmrAlunos = 0;
+                        decimal resulado = 0;
+
+                        for (int i = 0; i < alunos.Length; i++)
+                        {
+                            if (alunos[i].nome != null)
+                            {
+                                notaTotal = notaTotal + alunos[i].nota;
+                                nmrAlunos++;
+                            }
+                        }
+                        resulado = notaTotal / nmrAlunos;
+                        ConceitoEnum conceitoGeral;
+
+                        if (resulado < 2)
+                        {
+                            conceitoGeral = ConceitoEnum.E;
+                        }
+                        else if (resulado < 4)
+                        {
+                            conceitoGeral = ConceitoEnum.D;
+                        }
+                        else if (resulado < 6)
+                        {
+                            conceitoGeral = ConceitoEnum.C;
+                        }
+                        else if (resulado < 8)
+                        {
+                            conceitoGeral = ConceitoEnum.B;
+                        }
+                        else
+                        {
+                            conceitoGeral = ConceitoEnum.A;
+                        }
+
+
+                        Console.WriteLine($"Media: {resulado} - Conceito: {conceitoGeral}");
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();
