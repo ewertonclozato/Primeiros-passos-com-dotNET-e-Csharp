@@ -1,0 +1,16 @@
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.exe
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.deps.json
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.dll
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.pdb
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.dll
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.pdb
+B:\EWERTON\Documents\Cursos DigitalInnovation\Primeiros passos com .NET e C#\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
