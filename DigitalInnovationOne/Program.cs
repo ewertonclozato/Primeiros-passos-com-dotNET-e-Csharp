@@ -11,7 +11,6 @@ namespace DigitalInnovationOne
             for (int i = 0; i < numeroDeVezes; i++)
             {
                 Console.WriteLine($"Bem vindo ao curso de .NET {i}");
-                
             }
         }
     }
