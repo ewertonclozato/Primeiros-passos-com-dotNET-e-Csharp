@@ -1,4 +1,5 @@
 ﻿using System;
+using Revisao.Classes;
 
 namespace Revisao
 {
@@ -55,13 +56,13 @@ namespace Revisao
                         //adicionar aluno
                         Console.WriteLine("Informe o nome do aluno: ");
                         Aluno aluno = new Aluno();
-                        aluno.nome = Console.ReadLine();
+                        aluno.Nome = Console.ReadLine();
                     nota:
                         Console.WriteLine("Informe a nota do aluno: ");
 
                         if (decimal.TryParse(Console.ReadLine(), out decimal nota))
                         {
-                            aluno.nota = nota;
+                            aluno.Nota = nota;
                             Console.WriteLine();
                         }
                         else
@@ -85,9 +86,9 @@ namespace Revisao
                         //listar aluno
                         foreach (var a in alunos)
                         {
-                            if (a.nome != null)
+                            if (a.Nome != null)
                             {
-                                Console.WriteLine($"ALUNO: {a.nome} - NOTA: {a.nota}");
+                                Console.WriteLine($"ALUNO: {a.Nome} - NOTA: {a.Nota}");
                                 //Console.WriteLine(a.nome);
                             }
                         }
@@ -101,9 +102,9 @@ namespace Revisao
 
                         for (int i = 0; i < alunos.Length; i++)
                         {
-                            if (alunos[i].nome != null)
+                            if (alunos[i].Nome != null)
                             {
-                                notaTotal = notaTotal + alunos[i].nota;
+                                notaTotal = notaTotal + alunos[i].Nota;
                                 nmrAlunos++;
                             }
                         }
